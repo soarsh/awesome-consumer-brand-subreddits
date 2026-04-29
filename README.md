@@ -1,6 +1,4 @@
-# Awesome Consumer Brand Subreddits
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Consumer Brand Subreddits [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The communities where established CPG brands get dragged for sunsetting features, where smart-home users punish cloud-dependent devices generationally, and where Reddit's commercial team is selling P&G a CPG dashboard while r/smallbusiness mods would ban a Tide brand account on sight. Curated for CMOs and brand directors at retail, CPG, and durable-goods companies.
 
@@ -16,20 +14,20 @@ The communities where established CPG brands get dragged for sunsetting features
 - [How we picked these eight](#how-we-picked-these-eight)
 - [The DTC-playbook-doesn't-work-at-P&G-scale problem](#the-dtc-playbook-doesnt-work-at-pg-scale-problem)
 - [The shortlist](#the-shortlist)
-  1. [r/BuyItForLife](#1-rbuyitforlife)
-  2. [r/smarthome](#2-rsmarthome)
-  3. [r/iphone](#3-riphone)
-  4. [r/Android](#4-randroid)
-  5. [r/gadgets](#5-rgadgets)
-  6. [r/Frugal](#6-rfrugal)
-  7. [r/streetwear](#7-rstreetwear)
-  8. [r/electronics](#8-relectronics)
+  - [r/BuyItForLife](#rbuyitforlife)
+  - [r/smarthome](#rsmarthome)
+  - [r/iphone](#riphone)
+  - [r/Android](#randroid)
+  - [r/gadgets](#rgadgets)
+  - [r/Frugal](#rfrugal)
+  - [r/streetwear](#rstreetwear)
+  - [r/electronics](#relectronics)
 - [Posting playbook for consumer-brand CMOs](#posting-playbook-for-consumer-brand-cmos)
 - [FAQ](#faq)
 - [Subreddits we considered and didn't include](#subreddits-we-considered-and-didnt-include)
 - [Further reading](#further-reading)
 - [Related lists](#related-lists)
-- [License](#license)
+- [Live version with brand-mention data](#live-version-with-brand-mention-data)
 
 ---
 
@@ -72,9 +70,9 @@ The implication for this list: Reddit Ads Sales will sell you a CPG dashboard. T
 
 ## The shortlist
 
-### 1. r/BuyItForLife
+### r/BuyItForLife
 
-**~3.4M subscribers · [reddit.com/r/BuyItForLife](https://www.reddit.com/r/BuyItForLife/)**
+~3.4M subscribers · [reddit.com/r/BuyItForLife](https://www.reddit.com/r/BuyItForLife/)
 
 The most important sub on this list for any heritage durable-goods brand and the most dangerous to get wrong. Founded 2009, grown rapidly on the back of TikTok-driven anti-consumption interest. Tagline: "Durable, Quality, Practical."
 
@@ -84,9 +82,9 @@ The most important sub on this list for any heritage durable-goods brand and the
 
 ---
 
-### 2. r/smarthome
+### r/smarthome
 
-**~1M+ subscribers · [reddit.com/r/smarthome](https://www.reddit.com/r/smarthome/)**
+~1M+ subscribers · [reddit.com/r/smarthome](https://www.reddit.com/r/smarthome/)
 
 Sidebar emphasizes vendor-agnosticism and inclusivity, in explicit contrast with r/HomeAssistant and r/homeautomation, which are both more technical and more anti-cloud. r/smarthome accepts the "I just got Alexa, what now?" type posts that the more hardcore subs would remove.
 
@@ -96,9 +94,9 @@ Sidebar emphasizes vendor-agnosticism and inclusivity, in explicit contrast with
 
 ---
 
-### 3. r/iphone
+### r/iphone
 
-**~3.5M subscribers · [reddit.com/r/iphone](https://www.reddit.com/r/iphone/)**
+~3.5M subscribers · [reddit.com/r/iphone](https://www.reddit.com/r/iphone/)
 
 Focused on user discussion, troubleshooting, and tips, not industry news (that goes to r/apple, the larger and more curated community). The mods have had a contentious relationship with Reddit corporate; during the June 2023 API protests, the entire mod team was threatened with removal, and the sub eventually reopened "under duress" ([AppleInsider](https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal)).
 
@@ -108,9 +106,9 @@ Focused on user discussion, troubleshooting, and tips, not industry news (that g
 
 ---
 
-### 4. r/Android
+### r/Android
 
-**~1.2M+ subscribers · [reddit.com/r/Android](https://www.reddit.com/r/Android/)**
+~1.2M+ subscribers · [reddit.com/r/Android](https://www.reddit.com/r/Android/)
 
 Different culture than r/iphone: smaller (because Android users are spread across r/GooglePixel, r/samsung, r/oneplus, r/xiaomi, etc.), more technical, more critical. Rules ban referral codes, require specific device info, and forbid "which phone should I buy" posts (these go to r/PickAnAndroidForMe).
 
@@ -120,9 +118,9 @@ Different culture than r/iphone: smaller (because Android users are spread acros
 
 ---
 
-### 5. r/gadgets
+### r/gadgets
 
-**~22M+ subscribers · [reddit.com/r/gadgets](https://www.reddit.com/r/gadgets/)**
+~22M+ subscribers · [reddit.com/r/gadgets](https://www.reddit.com/r/gadgets/)
 
 A "default" subreddit (auto-subscribed for new accounts in the pre-2017 era), which is why its raw count is enormous but engagement per capita is low. Rules require posts to be news/analysis; product launches must be linked to a third-party article, never to the brand site.
 
@@ -132,9 +130,9 @@ A "default" subreddit (auto-subscribed for new accounts in the pre-2017 era), wh
 
 ---
 
-### 6. r/Frugal
+### r/Frugal
 
-**~6.7M subscribers · [reddit.com/r/Frugal](https://www.reddit.com/r/Frugal/)**
+~6.7M subscribers · [reddit.com/r/Frugal](https://www.reddit.com/r/Frugal/)
 
 One of the oldest large subreddits. Sidebar focuses on the philosophy of spending: not the cheapest option, but "the highest value for money and time."
 
@@ -144,9 +142,9 @@ One of the oldest large subreddits. Sidebar focuses on the philosophy of spendin
 
 ---
 
-### 7. r/streetwear
+### r/streetwear
 
-**~4.6M subscribers · [reddit.com/r/streetwear](https://www.reddit.com/r/streetwear/)**
+~4.6M subscribers · [reddit.com/r/streetwear](https://www.reddit.com/r/streetwear/)
 
 Reddit's largest streetwear community and one of the friendliest active fashion subs. For consumer-brand CMOs (durable-goods focus), this sub is largely off-target; it's fashion-cultural, not durable-goods.
 
@@ -156,7 +154,7 @@ Reddit's largest streetwear community and one of the friendliest active fashion 
 
 ---
 
-### 8. r/electronics
+### r/electronics
 
 **Smaller niche · [reddit.com/r/electronics](https://www.reddit.com/r/electronics/)**
 
@@ -194,32 +192,25 @@ The honest summary: Reddit for established consumer brands is a multi-year defen
 
 ## FAQ
 
-### Why isn't r/audiophile or r/Watches on the main list?
-
+### Why isn't r/audiophile or r/Watches on the main list
 Both should be. r/audiophile (~2.1M) is the premium electronics powerhouse where Sonos, Bose, Sennheiser, Focal, and KEF discussion lives. r/Watches (~3.4M) is critical for any wearable brand (Rolex, Omega, Seiko, Tissot, Timex). r/headphones is the companion to r/audiophile, more product-recommendation-focused. r/cars is the largest automotive enthusiast community. Soar's current shortlist over-indexes on smartphone subs and includes r/electronics (which is engineering, not consumer); we'd swap r/electronics for one or more of these and consider expanding to 9 or 10 subs total.
 
-### Should our enterprise CPG brand build a branded subreddit?
-
+### Should our enterprise CPG brand build a branded subreddit
 Maybe, for individual high-engagement brands within your portfolio, not for the parent corporate identity. Purple Mattress's r/LifeOnPurple (~3,800 members), Blizzard's official sub, and Mint Mobile's brand sub are the canonical successful examples. They work because each is a single-brand community-management commitment, not a parent-corporate channel. P&G or Unilever attempting a parent-corporate Reddit presence breaks down because every product line has different sentiment dynamics.
 
-### Is Reddit Ads a viable channel for our CPG brand?
-
+### Is Reddit Ads a viable channel for our CPG brand
 Yes, increasingly. Reddit's Brand Lift studies report ad awareness 5x higher and aided brand awareness 14x higher than the CPG benchmark. 96% of measured advertiser campaigns experienced positive incremental lift in foot traffic. The trap is treating Reddit Ads like LinkedIn Ads with corporate creative; Reddit's audience eats that for breakfast. Use Reddit-native creative (screenshot styles, in-jokes, problem-statement copy, conversation-starting questions). Coca-Cola's AI-ad backlash is the cautionary tale of what happens when CPG creative shows up unmodified.
 
-### What's the realistic timeline before Reddit produces measurable revenue lift for an established brand?
-
+### What's the realistic timeline before Reddit produces measurable revenue lift for an established brand
 For lead-gen attribution, 12+ months and likely never on a last-touch basis. For sentiment improvement and search-presence shift, 6–12 months. For ChatGPT and AI-citation appearance, 3–6 months once you have published content and Reddit threads to cite. The most measurable Reddit ROI for established brands is usually defensive: avoiding a Sonos-app-launch-style backlash that costs you a quarter's revenue.
 
-### How should we monitor Reddit for our brand mentions?
-
+### How should we monitor Reddit for our brand mentions
 Tools like SparkToro, GummySearch, and several Reddit-native monitoring platforms (RedditPulse, Brand24, Mention) can surface brand mentions in near-real-time. Most enterprise CPG brands underinvest in this; the right baseline is a daily digest of brand mentions across your top 20 product subs and a Slack alert for any thread that crosses 100 upvotes. The customer-service triage opportunity (responding transparently to product complaints in their original threads) is one of the highest-ROI activities Reddit enables for established brands.
 
-### Should we do a brand AMA?
-
+### Should we do a brand AMA
 For specific product launches with credible spokespeople (a chief engineer, a head of design, a real expert), yes, with mod pre-coordination. For corporate-brand voice or generic "ask us anything about Coca-Cola," no. Samsung's 2025 Galaxy AI AMA is the cautionary tale: spiky, well-covered (Android Police: "[Samsung grilled by fans](https://www.androidpolice.com/samsung-grilled-by-fans-over-galaxy-ai-in-spiky-reddit-ama/)"), and a multi-year sentiment liability. AMAs reward specificity and punish corporate-speak.
 
-### What gets a consumer-brand account permabanned?
-
+### What gets a consumer-brand account permabanned
 Three patterns: (1) creating sock-puppet accounts to upvote your own posts (vote manipulation, the most severe site-wide offense), (2) paying influencers or community members to post without disclosure (FTC violation territory and Reddit-specific detection), and (3) mod payola (the 2015 r/SkincareAddiction scenario). The first is detected by Reddit admins via account-correlation tooling; the other two are detected by other mods and the wider Reddit-meta community.
 
 ---
@@ -253,24 +244,24 @@ A note on what's not here and why, since most "best of" lists don't show their w
 
 ## Further reading
 
-- [WWD: Reddit's Transformation From Snarky Reviews to Beauty Marketing Tool](https://wwd.com/beauty-industry-news/beauty-features/reddit-transformation-fsnarky-reviews-beauty-marketing-tool-1238553633/). The most-cited piece on the beauty-Reddit shift.
-- [The Drum: Reddit's CMO Roxy Young on the brand opportunity](https://www.thedrum.com/news/2025/03/27/reddit-turning-20-and-it-s-just-getting-started-candid-chat-with-cmo-roxy-young). The platform-side perspective on what consumer brands should and shouldn't do.
-- [Klarna and Reddit: Most Popular BIFL Items of 2023](https://www.klarna.com/international/press/klarna-and-reddit-unveil-the-most-popular-buy-it-for-life-items-of-2023/). The canonical BIFL brand list.
-- [The Snapping Point: r/SkincareAddiction mod payola scandal](https://thesnappingpoint.com/r-skincareaddiction-scam-reddit-ieatbugs/). The 2015 case study on mod-payola failure.
-- [HowToGeek: Smart home brands to avoid if you use Home Assistant](https://www.howtogeek.com/smart-home-brands-to-avoid-if-you-use-home-assistant/). The smart-home community's de facto blacklist.
-- [HowToGeek: It's Time to Stop Buying Phones from OnePlus](https://www.howtogeek.com/340174/its-time-to-stop-buying-phones-from-oneplus/). The long-term brand-asset depreciation case study.
-- [NBC News: Coca-Cola causes controversy with AI-made ad](https://www.nbcnews.com/tech/innovation/coca-cola-causes-controversy-ai-made-ad-rcna180665). The CPG-creative-misfire case study.
-- [Android Police: Samsung grilled by fans over Galaxy AI in spiky Reddit AMA](https://www.androidpolice.com/samsung-grilled-by-fans-over-galaxy-ai-in-spiky-reddit-ama/). The AMA cautionary tale for corporate-voice brands.
-- [Hacker News: r/BuyItForLife discussion](https://news.ycombinator.com/item?id=40306193). The persistent astroturfing critique on the record.
+- [WWD: Reddit's Transformation From Snarky Reviews to Beauty Marketing Tool](https://wwd.com/beauty-industry-news/beauty-features/reddit-transformation-fsnarky-reviews-beauty-marketing-tool-1238553633/) - The most-cited piece on the beauty-Reddit shift.
+- [The Drum: Reddit's CMO Roxy Young on the brand opportunity](https://www.thedrum.com/news/2025/03/27/reddit-turning-20-and-it-s-just-getting-started-candid-chat-with-cmo-roxy-young) - The platform-side perspective on what consumer brands should and shouldn't do.
+- [Klarna and Reddit: Most Popular BIFL Items of 2023](https://www.klarna.com/international/press/klarna-and-reddit-unveil-the-most-popular-buy-it-for-life-items-of-2023/) - The canonical BIFL brand list.
+- [The Snapping Point: r/SkincareAddiction mod payola scandal](https://thesnappingpoint.com/r-skincareaddiction-scam-reddit-ieatbugs/) - The 2015 case study on mod-payola failure.
+- [HowToGeek: Smart home brands to avoid if you use Home Assistant](https://www.howtogeek.com/smart-home-brands-to-avoid-if-you-use-home-assistant/) - The smart-home community's de facto blacklist.
+- [HowToGeek: It's Time to Stop Buying Phones from OnePlus](https://www.howtogeek.com/340174/its-time-to-stop-buying-phones-from-oneplus/) - The long-term brand-asset depreciation case study.
+- [NBC News: Coca-Cola causes controversy with AI-made ad](https://www.nbcnews.com/tech/innovation/coca-cola-causes-controversy-ai-made-ad-rcna180665) - The CPG-creative-misfire case study.
+- [Android Police: Samsung grilled by fans over Galaxy AI in spiky Reddit AMA](https://www.androidpolice.com/samsung-grilled-by-fans-over-galaxy-ai-in-spiky-reddit-ama/) - The AMA cautionary tale for corporate-voice brands.
+- [Hacker News: r/BuyItForLife discussion](https://news.ycombinator.com/item?id=40306193) - The persistent astroturfing critique on the record.
 
 ---
 
 ## Related lists
 
-- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits): index of all our curated lists.
-- [Awesome Ecommerce Subreddits](https://github.com/soarsh/awesome-ecommerce-subreddits): for DTC brands and direct-to-consumer ecommerce.
-- [Awesome Gaming Subreddits](https://github.com/soarsh/awesome-gaming-subreddits): for game and consumer-app brands.
-- [Awesome Healthtech Subreddits](https://github.com/soarsh/awesome-healthtech-subreddits): for wellness consumer goods (mats, recovery wearables, kitchen-tied health gear).
+- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits) - Index of all our curated lists.
+- [Awesome Ecommerce Subreddits](https://github.com/soarsh/awesome-ecommerce-subreddits) - For DTC brands and direct-to-consumer ecommerce.
+- [Awesome Gaming Subreddits](https://github.com/soarsh/awesome-gaming-subreddits) - For game and consumer-app brands.
+- [Awesome Healthtech Subreddits](https://github.com/soarsh/awesome-healthtech-subreddits) - For wellness consumer goods (mats, recovery wearables, kitchen-tied health gear).
 
 ## Live version with brand-mention data
 
@@ -282,6 +273,3 @@ The live page on Soar tracks which brands ChatGPT and Google AI Overviews cite a
 
 Spotted a missing subreddit, a stale removal-rate observation, or a mod-rule change? [Open an issue](../../issues) or [submit a PR](../../pulls). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-
-Content under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Copy, adapt, and republish freely. Attribution appreciated, not required.
