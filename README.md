@@ -1,5 +1,7 @@
 # Awesome Consumer Brand Subreddits
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 The communities where established CPG brands get dragged for sunsetting features, where smart-home users punish cloud-dependent devices generationally, and where Reddit's commercial team is selling P&G a CPG dashboard while r/smallbusiness mods would ban a Tide brand account on sight. Curated for CMOs and brand directors at retail, CPG, and durable-goods companies.
 
 > **About this list.** Maintained by [Soar](https://soar.sh). We sell Reddit accounts and run engagement campaigns for B2B and consumer brands, so we have direct skin in the game on what works in these communities. The commentary on mod culture, removal rates, and what gets banned comes from running real campaigns across hundreds of subreddits, not desk research.
